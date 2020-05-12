@@ -6,8 +6,9 @@ Hello! This is my personal website, where you can know me better.<!-- laglaglagl
 <p>My name is Emir. From Turkey but living in Greece. 27 years old.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> I used to work as a game designer, mostly designed and built games for children who needs special education. After discovering the security world, I was immediately amazed and into it. And now, I'd like to prefer calling myself a security noob and wannabe hacker.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I started to learn hacking basics and doing bug bounties. Firstly I've tried to add my name to hall of fame lists as much as possible and collect swags! <br><br><br>You can find some of the swags I've collected here. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> Below you can access Hall of Fame lists I'm in, here: <br> <a href="link1">Hall of Fame</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a> <br> <a href="link"> portfolio</a>.</p>
+<p> Below you can access Hall of Fame lists I'm in, here: <br> <a href="link1">Hall of Fame</a>
 
-You can also watch me struggling with<!-- slightdelayhere--> HackTheBox and TryHackMe at  <!-- longlonglongcomment --><a href="https://twitch.tv/xsstorce">Twitch</a>. <br> <a href="link2">Twitter</a> and <br> <a href="link3">Mail</a>
+You can also watch me struggling with<!-- slightdelayhere--> HackTheBox and TryHackMe at  <!-- longlonglongcomment --><a href="https://twitch.tv/xsstorce">Twitch</a>.
 
 <p>Cheers!</p>
+<br> <a href="https://twitter.com/emirca_">Twitter</a>      <br> <a href="emirakkutlu@gmail.com">Mail</a>
