@@ -2,12 +2,12 @@
 <span id="a">Emir@Akkutlu</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[emir].txt<br/><br/>
 My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
 
-Hello! This is my personal website, where you can know me better.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Below there is a list you can see about me and what I do.</p>
+Hello! This is my personal website, where you can know me better.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p></p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> I used to work as a game designer, mostly designed and built games for children who needs special education. After discovering the security world, I was immediately amazed and into it. And now, I'd like to prefer calling myself a security noob and wannabe hacker.<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I started to learn hacking basics and doing bug bounties. Firstly I've tried to add my name to hall of fame lists as much as possible and collect swags! <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+You can also watch me struggling with<!-- slightdelayhere-->,HackTheBox and TryHackMe at  <!-- longlonglongcomment --><a href="https://twitch.tv/xsstorce">Twitch</a>.
 
 <p>Cheers!</p>
