@@ -8,6 +8,6 @@ Hello! This is my personal website, where you can know me better.<!-- laglaglagl
 <p>I started to learn hacking basics and doing bug bounties. Firstly I've tried to add my name to hall of fame lists as much as possible and collect swags! <br><br><br>You can find some of the swags I've collected here. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> Below you can access Hall of Fame lists I'm in, here: <br> <a href="link1">Hall of Fame</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a> <br> <a href="link"> portfolio</a>.</p>
 
-You can also watch me struggling with<!-- slightdelayhere--> HackTheBox and TryHackMe at  <!-- longlonglongcomment --><a href="https://twitch.tv/xsstorce">Twitch</a>.
+You can also watch me struggling with<!-- slightdelayhere--> HackTheBox and TryHackMe at  <!-- longlonglongcomment --><a href="https://twitch.tv/xsstorce">Twitch</a>. <br> <a href="link2">Twitter</a> and <br> <a href="link3">Mail</a>
 
 <p>Cheers!</p>
